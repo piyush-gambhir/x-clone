@@ -4,12 +4,13 @@ export const metadata: Metadata = {
   description: "Sign Up / X",
 };
 
-import { SignUpModal } from "@/components/Login";
+import SignUpModal from "@components/signup-modal";
 
 export default function page() {
   return (
     <div>
-      <SignUpModal />
+      {/* <SignUpModal /> */}
+      Hello
     </div>
   );
 }
