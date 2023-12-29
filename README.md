@@ -40,5 +40,5 @@ npm run dev
 
 ## Technologies Used
 
-Next.js: A React framework for building server-rendered applications.
-Tailwind CSS: A utility-first CSS framework for building modern designs.
+- Next.js: A React framework for building server-rendered applications.
+- Tailwind CSS: A utility-first CSS framework for building modern designs.
